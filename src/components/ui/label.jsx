@@ -1,0 +1,1 @@
+export function Label({children}){return <label className='text-sm font-medium block mb-1'>{children}</label>;}

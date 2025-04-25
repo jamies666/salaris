@@ -1,0 +1,1 @@
+export function Input(props){return <input className='border p-1 rounded w-full' {...props}/>;}
